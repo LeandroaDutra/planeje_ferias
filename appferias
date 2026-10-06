@@ -1,0 +1,12 @@
+InvestDutra/
+│
+├── README.md
+│
+├── simuladores/
+│   ├── simulador-ferias.xlsx
+│   └── simulador-investimentos.xlsx
+│
+├── imagens/
+│   └── preview-ferias.png
+│
+└── documentos/
