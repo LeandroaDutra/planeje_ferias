@@ -33,3 +33,4 @@ O InvestDutra busca transformar o planejamento das férias em uma decisão finan
 Salário → Contas e dívidas → Valor disponível → Investimento → Rendimento → Patrimônio acumulado.
 Assim, o usuário consegue aproveitar as férias sem perder o controle financeiro e ainda identificar quanto pode reservar para construir uma segurança financeira após o período de férias.
 
+<img width="747" height="949" alt="image" src="https://github.com/user-attachments/assets/496ed0de-5777-43b7-bfca-d9fa30ea67a9" />
