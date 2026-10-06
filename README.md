@@ -34,3 +34,5 @@ Salário → Contas e dívidas → Valor disponível → Investimento → Rendim
 Assim, o usuário consegue aproveitar as férias sem perder o controle financeiro e ainda identificar quanto pode reservar para construir uma segurança financeira após o período de férias.
 
 <img width="747" height="949" alt="image" src="https://github.com/user-attachments/assets/496ed0de-5777-43b7-bfca-d9fa30ea67a9" />
+
+[APP FERIAS.xlsx](https://github.com/user-attachments/files/33121957/APP.FERIAS.xlsx)
